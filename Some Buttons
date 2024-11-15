@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+
+<style>
+	  .SUB {background-color: black;
+	  color:white;
+	  border:none;
+	  height:36px;
+          width:95px;
+	  border-radius:35px;
+	  cursor:pointer;
+	  margin-right:5px;
+}
+	  .JOIN {background-color: black;
+	  color:white;
+	  border-color:white;
+	  border-width:2px;
+	  border-style:solid;
+	  height:36px;
+          width:52px;
+	  border-radius:35px;
+	  cursor:pointer; }
+ .Sign{background-color:rgb(46,164,79);
+              color:white;
+              cursor:pointer;
+              width:80px;
+              height:36px;
+              border:none;
+              border-radius:5px;
+	      font-size:15px;}
+.Down{background-color:rgb(72, 175, 255);
+              color:white;
+              cursor:pointer;
+              width:120px;
+              height:36px;
+              border:none;
+              border-radius:5px;
+	      font-size:13px;
+	      font-weight:bold;
+}
+</style>
+
+
+<button class="SUB">
+Subscribe
+</button>
+
+<button class="JOIN">
+Join
+</button>
+
+<button class="Sign">
+Sign Up
+</button>
+
+<button class="Down">
+Download File
+</button>
+
+</html>
